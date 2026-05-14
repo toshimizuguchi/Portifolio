@@ -44,9 +44,3 @@ Como usar:
 1. Abra `html/index.html` no navegador (ex.: arrastar o arquivo para o Chrome).
 2. Edite textos nas seções `#sobre`, `#projetos` e `#contato`.
 3. Para formulário funcional, integre com um serviço (Formspree, Netlify Forms) ou implemente backend.
-
-Quer que eu:
-
-- ajuste cores e tipografia?
-- crie páginas individuais de projeto?
-- configure deploy no GitHub Pages?
